@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppTarefas</string>
+    
+    <string name="txtApp">App Tarefas</string>
+    <string name="txtLista">Lista de Tarefas</string>
+    <string name="txtDomesticas">Tarefas Domésticas</string>
+    <string name="txtEstudos">Tarefas de Estudo</string>
+    <string name="txtTrabalho">Tarefas de Trabalho</string>
+    <string name="txtSalvar">Salvar</string>
+</resources>
